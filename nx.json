@@ -38,7 +38,7 @@
       },
       "exclude": [
         "apps/nestjs-eshop-microservices-e2e/**/*",
-        "apps/nestjs-eshop-microservices-e2e/**/*"
+        "apps/identity-service-e2e/**/*"
       ]
     }
   ]
